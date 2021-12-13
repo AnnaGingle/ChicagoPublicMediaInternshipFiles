@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.094" height="7.8" viewBox="0 0 29.094 7.8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="live-indicator-content" transform="translate(-3.656 -13.6)">
+    <path id="Path_146" data-name="Path 146" class="cls-1" d="M13.864,11V3.2h2.064V9.272H18.88V11Zm6.363,0V3.2h2.064V11Zm5.117,0-2.3-7.8h2.184l.816,3.408q.168.624.288,1.236t.288,1.236h.048q.168-.636.288-1.236t.288-1.236L28.032,3.2h2.112L27.84,11Zm5.547,0V3.2h5.04V4.928H32.955V6.152H35.5V7.88H32.955V9.272h3.1V11Z" transform="translate(-10.208 10.4)"/>
+    <path id="Path_147" data-name="Path 147" class="cls-1" d="M7,9.75A2.75,2.75,0,1,0,4.25,7,2.75,2.75,0,0,0,7,9.75Z" transform="translate(23 10.5)"/>
+  </g>
+</svg>

@@ -1,0 +1,407 @@
+﻿Typography
+"Typography"
+"Typography guide https://shared-assets.adobe.com/link/c7b5fda2-3e95-4e9e-7c3b-4eb50429e01d","https://shared-assets.adobe.com/link/c7b5fda2-3e95-4e9e-7c3b-4eb50429e01d"
+
+Tasks for Usability Testing
+"Brainstorming Tasks for Usability Testing"
+"Navigation"
+"Browse screen"
+"Radio screen"
+"Expanded Player"
+"Collapsed Player"
+"Listen live now "
+"Radio screen"
+"Idea 1"
+"Idea 1"
+"Idea 1"
+"Idea 2"
+"Idea 2"
+"Idea 2"
+"Idea 2"
+"Idea 3"
+"Idea 3"
+"Idea 3"
+"Idea 3"
+"Navigation - Top nav"
+"Navigation - Burger menu"
+"Featured"
+"Radio schedule"
+"How would you find the radio schedule?"
+"Idea 1"
+"Idea 1"
+"Idea 1"
+"Idea 1"
+"Idea 2"
+"Idea 2"
+"Idea 2"
+"Idea 2"
+"Idea 3"
+"Idea 3"
+"Idea 3"
+"Idea 3"
+"Navigation - Bottom nav"
+"recent highlights"
+"Idea 1"
+"See more or pop out?"
+"Idea 2"
+"Idea 2"
+"Idea 3"
+"Idea 3"
+"Live news now"
+"Idea 1"
+"Idea 2"
+"Idea 3"
+"Podcasts"
+"Show page"
+"Idea 1"
+"Idea 1"
+"Idea 2"
+"Idea 2"
+"Idea 3"
+"Idea 3"
+
+Browse
+"Browse"
+"Shadows"
+"Recent Highlights"
+"Active state color #F79CA1"
+"Card shadows should be    #ffffff at 16% with Y: 8 B:20 X: 0"
+"Outlined icons"
+"4px corner radius on all cards"
+"4px spacing between cards"
+"The shadows look ok on android"
+"Should we change the img placement to match user expectations?"
+"maybe later."
+"New iOS update"
+"Github has been doing this"
+"Live Live / Featured"
+"Make space between h1 and section component 8px"
+" spacing between h1 and section component"
+"Inconsistent spacing on featured item img. has 8px padding and a GLOBAL margin of 8px"
+"Img should be 358px by 358px"
+"text inside a box should have 16px spacing on left and right. 8px spacing inside a box. 4px spacing from text above or below"
+"Incorrect spacing on featured item text. has a 34px margin"
+"play btn and min should be in the same row /aligned"
+"play btn and 00 min in same row"
+"Featured item gradient color #121212"
+"Podcasts / Latest news now"
+"All items"
+"Everything should be 8px away from the left side and the right side. Right now it is 16"
+"Recent Highlight cards only need 4px in-between cards"
+"SEE ALL btn?"
+
+Product page
+"Consider easy to digest bullets"
+"Key Goals and Needs   Inspire and engage usersShow how to use the app.Ensure actionable outcomes.  Key Pains and Constraints   No longer than 30 secsTime is limited. "
+"This is the journey of a"
+"App Preview 🦄"
+"The first screen displayed when our app comes up in search and on the product page"
+"1. Scenario: App Preview🎭"
+"2. Storyboard ✏️"
+"Podcasts"
+"Recent highlights"
+"Radio schedule"
+"Browse screen"
+"Highlighted feature"
+"Live radio"
+"Recent highlights expanded player screenshot 1"
+"Recent highlights expanded player screenshot 2"
+"Recent highlights expanded player screenshot 3"
+"User selects Listen Live Collapsed player pops up"
+"Interaction"
+"Scroll browse screen"
+"On radio pgUser selects scheduleUser plays an item from yesterday"
+"3 recent highlight screenshots are shown.  Transitioned on top of eachother"
+"'- Never miss a thing with rewind'"
+"'-Get fresh content -See what's happening'"
+"Don't miss any of your favorites"
+"Many pathways to public radio / chicago"
+"What it means to the user"
+"Future release: Highlight show notifications"
+"Interaction"
+"User rewind live streamLive indicator change to skip to liveUser selects skip to live"
+"In-app events"
+"Pledge, new podcasts"
+"The app store promotes content to users based on location"
+
+keyFindings
+"Radio / Radio schedule confusion -Let's combine them   -This will also fix the confusion users had with context   "
+"Users prefer jumping into safari when donating -In app browsing doesn't support auto fill   -Complements on donation page   -Let's not make extra work for ourselves to be trendy, let's be usable"
+"Burger menu confusion - users expect to find ""their"" settings their  - account, saved items, MY PODCASTS   I think this is a scope issue, overall every usability issue passed"
+"Users jump forward / backward on lock screen"
+"Uses seek bar when listening more actively, more interaction heavy"
+"Context confusion -should be resolved with typography implementation -with future plans to improve / match user expectations"
+"""Skip to live, that's a really nice feature"""
+
+Usability test 1: Nick J
+
+"User","34
+IT Manager
+Nick Johansson
+2 phones, apple and android"
+"Screener Q&A"
+"Tasks"
+"Find and and open the WBEZ app.","n
+How do I go back to it?
+I went to the menu
+Did not notice bottom navigation, tried to use bottom navigation"
+"Without leaving the homepage, describe what you would select first. **Do not select anything yet.** If you would leave without clicking anywhere, please explain why. [Verbal response]","Answered this question in response to #1
+See what features to understand what it is
+burger menu because I wanted to see where I was and if this is the landing page"
+"Use the app to listen to the live broadcast.","Didn't use collapsed player or Listen Live Now
+Radio and then thats the first thing thats up
+Successfully completed task"
+"You want to see more information about what you’re currently listening to. How would you go about that?","n
+Clicked into collapsed player
+r, try to find out more by playing around, nothings there, I don't know i'm stuck
+I dont think there is a way
+There's 1A here and yesterday, what's the difference?
+I'd much rather the expanded player scroll up to show more information"
+"5.) Now let's say you have to pause the live broadcast for a moment. Pause the live stream.","n
+Successfully completed task"
+"Now you want to continue listening. How would you make sure you're listening to what's playing live now? Please think out loud as much as possible. [Verbal response]","Opens up collapsed player, presses play
+Pressed skip to live
+I could see that there was a delay on the toggle bar, and the button also indicated that so I opened up the collapsed player
+Skip to live, that's a really nice feature"
+"You just realized you missed something you wanted to hear about 20 seconds ago. How would you do that?","n
+Tries to toggle
+I would go back in and pause it
+Bad toggle touch feature
+I think the 10 sec button would be easier"
+"Use the app to listen to a recent highlight that looks interesting to you. Speak out loud as you do so.","This actually looks like the home feature I was looking for
+I consider podcasts more of a menu feature
+The collapses player has some time, functionality, presumably because the back button doesn't work
+It would be interesting know the original time of air, whos speaking"
+"What is the difference between browse and home to you?","home page has the ability to drill into something that you're interested in
+Browse is something more cataloged based on types business, sports
+Or more high level features like Listen Live
+Like a search feature more detailed"
+"What do you expect to happen after you've finished listening to a recent highlight? Did this experience match your expectations? Why or why not? [Verbal response]","I much prefer the radio schedule because it gives me more information."
+"Can you use the toggle to go forward 2 mins and 30 seconds","It's buggy
+Successfully completed task
+Chicago cops vaccine firing"
+"Use the app to listen to a featured item. Speak out loud as you do so.","Loteria doors selected
+Yesterday? Is that who made this?
+Expects more information on collapsed player and radio screen"
+"You want to use the app to listen to today's NPR newscast. Speak out loud as you do so.","The radio (pg) had marketplace that showed today
+I dont like that the radio pg doesnt have a date on it
+Full radio schedule is hidden
+Full radio schedule is hidden
+What if I wanted to listen to marketplace 2 days ago?
+Goes to full radio schedule
+There we go! I like the information that is provided"
+"You want to find and listen to a podcast. Show how you would do so.","Browse, burger menu, Nothing, no search
+Newsletter is not the first thing I want shown to me"
+"You remembered hearing something interesting while listening to WBEZ around 1 PM yesterday. How would you go about finding that content?","I'm caught in a loop
+Browse, radio, I'm confused between the radio and the radio schedule page.
+Thought radio was radio schedule
+Radio schedule is hard is find
+He's fusteraded because bottom nav looks the same for both radio and radio schedule"
+"Let's say you wanted to donate to WBEZ, What would you do? Please think out aloud while doing so."
+"What do you expect to happen after you've finished listening to a recent highlight? Did the Donate experience match your expectations? Why or why not? [Verbal response]","I prefer the donate popping out to safari because I can use autofill"
+"User quote"
+"Observation"
+
+Usability findings synthesis
+New table
+"Sees","Doing","Wants","Pains","Gains/Opportunities"
+,"Finding more information on a show that aired earlier","Improved navigation","Full radio schedule is hidden
+Thought radio was radio schedule
+Browse, radio, I'm confused between the radio and the radio schedule page.
+He's fusteraded because bottom nav looks the same for both radio and radio schedule","Make author names and minutes visibly different with typography
+Put radio schedule btn somewhere more obvious
+Make radio schedule pg a pop over? eliminate bottom navigation
+Prefers radio schedule over radio pg
+Combine radio and radio schedule page?"
+,"You want to see more information about what you’re currently listening to.","More information for audio content
+It would be interesting know the original time of air, whos speaking","I dont like that the radio pg doesnt have a date on it
+There's 1A here and yesterday, what's the difference?","Author, date, time"
+,"Listening to featured item,,Nick J, Doing","Air date, time, and author information
+I'd much rather the expanded player scroll up to show more information,,Nick J","I much prefer the radio schedule because it gives me more information.
+Yesterday? Is that who made this?,,Nick J","Scroll up to display bio thats on the schedule pg
+Implement typography suggestions
+Make dates and authors visually different"
+,"Burger menu","A customized homepage in addition to browse
+Search","Browse is something more cataloged based on types business, sports
+Browse VS Homepage
+home page has the ability to drill into something that you're interested in
+Podcasts seems more like a burger menu item to me because I'm used to seeing MY podcasts","Homepage in future release
+Autofill to donate
+Users jump forward / backward on lock screen
+Uses seek bar when listening more actively, more interaction heavy"
+"Users:"
+"Nick Johansson, 34"
+"Finding Podcasts"
+
+Impact VS effort
+"Combine radio and radio schedule pg"
+"8"
+"5"
+"3"
+"2"
+"1"
+"IMPACT"
+"EFFORT"
+"1"
+"2"
+"3"
+"5"
+"8"
+
+New table
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Empathy map
+"Yesterday? Is that who made this?",,"Nick J"
+"Nick Johansson, 34"
+"I'd much rather the expanded player scroll up to show more information",,"Nick J"
+"Selects featured item Loteria doors",,"Nick J, Doing"
+"I much prefer the radio schedule because it gives me more information."
+"More information in the expanded player/featured item on audio content"
+"Scroll up to display bio like the radio schedule pg"
+"Make author names and minutes visibly different with typography"
+
+Show/Radio
+"Show"
+"Radio"
+"This looks SO good"
+"4px btn corner radius"
+"rgb 218 218 218"
+"text rgb 10 10 10"
+"No Caps First Letter Capitalized"
+"Move button"
+"needs divider lines"
+"00 min style"
+"outlined btns"
+
+Schedule
+"Schedule"
+"Make it clear that this is available via WBEZ live only"
+"* NOT AVAILABLE FOR ON-DEMAND"
+"* LIVE ONLY"
+"Active state color #F79CA1"
+"Up btn should be in active state"
+
+Expanded Player
+"Expanded player"
+"add Android behavior: cover all of the screen"
+"Activity"
+"btn target area should be bigger"
+"Where would you put the live now btn?"
+"Live now btn"
+
+collapsed-player
+"Collapsed player"
+"No shadow on collapsed player"
+
+burger-menu
+"Burger menu"
+"add title"
+"Menu"
+"Divider lines between content selection"
+"Outlined icons"
+
+global-styles
+"GLOBAL STYLES"
+"Current"
+"Changes to make"
+"Outlined btns everywhere except player"
+"Global margin should be 8px"
+"Active state color #F79CA1"
+"Active state color #F79CA1"
+"bottom nav"
+"Times/mins"
+"expanded or active"
+"Inactive btn #dadada"
+"New browse iconhttps://fonts.google.com/icons?selected=Material+Icons&icon.query=grid","https://fonts.google.com/icons?selected=Material+Icons&icon.query=grid"
+
+"Identify solutions"
+"Design review"
+"Solution 1"
+"Solution 2"
+"Solution 3"
+"Users"
+"Age"
+"Gender"
+"Country"
+"State"
+"Income"
+"Employment status"
+"Industry"
+"Job function"
+"Seniority"
+"Company size"
+"Social networks"
+"Web browsers"
+"Languages spoken"
+"Devices"
+"Zee98"
+"23"
+"F"
+"United States"
+"IL"
+"Employed full-time (30 or more hours per week)"
+"Computer Software"
+"Consulting"
+"Entry-level"
+"10,001+ employees"
+"Facebook, Twitter, Linkedin, Pinterest"
+"Chrome, Firefox, Safari, Edge"
+"English, Arabic"
+"Mac, Windows, iPhone, iPad, Smart TV (with built-in apps), Streaming TV box (Roku, Apple TV, etc.)"
+"$60,000 - $79,000"
+"MorningAlpaca6826"
+"24"
+"F"
+"United States"
+"$40,000 - $59,000"
+"Screener results"
+"By participating in this session with a customer of UserTesting, you are agreeing to have the session recorded. This session will require you to use the camera on your phone to capture your surroundings. As set forth in our Terms of Use, you assign any rights in the recording to UserTesting and we will provide the recording to our customer for their business use. If you do not agree to the visual recording, do not proceed with the session."
+"Do you use your smartphone to stay up to date with recent news?"
+"Do you use your smartphone to listen to live sports, news, or music?"
+"Do you listen to podcasts on your smartphone?"
+"Yes"
+"Yes"
+"Yes"
+"Yes"
+"Post test questionnaire"
+"Show pg gradient"
+"What did you like about it?"
+"How likely are you to recommend this app to a friend or colleague (0=Not at all likely, and 10=Very likely)?"
+"What was the most frustrating thing about your experience?"
+"What other ideas do you have about how it could be improved?"
+"I liked how everything was on one page and separated into categories"
+"Very functional, appealing and generally easy to use"
+"5 because I am not sure how much I would use it"
+"not being able to see a description about what I was listening to."
+"I would add descriptions for the things that aren’t live."
+"Just opening the donate option inside the app"
+"Just the difficulty of finding a description of the podcast I listened to"
+"7"
+"I use the apple podcasts app and I rarely listen to live news so I am not sure if it would be that beneficial for me."
+" I also liked that the schedule had a separate section and you’re able to see everything that is had played or will be playing."
+"Card and bg color match browse screen"
